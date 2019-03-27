@@ -4,7 +4,7 @@
 
 ### Redux Version
 This version does not include Redux
-[Click Here For Redux Version](https://github.com/bradtraversy/react_redux_express_starter) 
+[Click Here For Redux Version](https://github.com/abdualRehman/mern-stack-dua-shopping-app) 
 
 ## Quick Start
 
